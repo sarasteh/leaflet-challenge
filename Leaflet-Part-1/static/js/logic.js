@@ -51,7 +51,7 @@ fetch(earthquakeData)
         fillColor: color,
         weight: 1,
         // Adjust the radius.
-        radius: size * 35000,
+        radius: size * 55000,
       }).bindPopup(`<h5>${jsonData.features[i].properties.place}</h5><hr>Magnitude:${jsonData.features[i].properties.mag}`).addTo(myMap);
 
       //***********************
