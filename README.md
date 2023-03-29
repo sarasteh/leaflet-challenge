@@ -6,6 +6,6 @@ The following image is an example screenshot of what appears when you visit this
  > ![earthquakemap](map.jpg)
 
 # Resources
-- Java Script file (logic.js) inside the *static\js* 
+- Java Script file (logic.js) inside *static\js* 
 - Html file (index.html)
-- Css file (style.css) inside *static\css* 
+- Css file (style.css) *static\css* 
